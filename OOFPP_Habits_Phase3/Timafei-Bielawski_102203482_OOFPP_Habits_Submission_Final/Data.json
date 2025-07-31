@@ -1,0 +1,33 @@
+{
+    "reading": {
+        "Goal": "Read every day ",
+        "Time_Frame": 30,
+        "TargetPerPeriod": 1,
+        "FrequencyNote": "one hour a day",
+        "Counter": 1,
+        "Start_Time": 1753965683.2164836,
+        "Last_Checked": 1753965683.2164836,
+        "BestStreak": 1
+    },
+    "drinking water": {
+        "Goal": "Drink water every 3 hours",
+        "Time_Frame": 31,
+        "TargetPerPeriod": 3,
+        "FrequencyNote": "every 3 hours",
+        "Counter": 0,
+        "Start_Time": 1753962220.6781583,
+        "Last_Checked": null,
+        "BestStreak": 0
+    },
+    "watering plants": {
+        "Goal": "Weakly water plants",
+        "Time_Frame": 3,
+        "TargetPerPeriod": 4,
+        "FrequencyNote": "4 times a day",
+        "Cycle_Type": "weeks",
+        "Counter": 0,
+        "Start_Time": 1753969730.01605,
+        "Last_Checked": null,
+        "BestStreak": 0
+    }
+}
