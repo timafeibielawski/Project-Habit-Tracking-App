@@ -21,11 +21,7 @@ This is a terminal-based habit tracking application written in Python. It allows
 
 **Requirements:** Python 3.7 or higher
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/timafeibielawski/Project-Habit-Tracking-App.git
-   cd Project-Habit-Tracking-App
-   ```
+1. Clone the repository
 
 2. Run the main application:
    ```bash
