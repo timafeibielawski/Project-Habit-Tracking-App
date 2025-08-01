@@ -11,7 +11,7 @@ This is a terminal-based habit tracking application written in Python. It allows
 - Countdown timers for each habit's current cycle
 - Current and best streak tracking
 - Tabular display of all habits, adjusted to terminal width
-- Color-coded and user-friendly interface
+- User-friendly interface
 - Auto-refresh after each action for smooth interaction
 - Automatically restores a placeholder habit when the list is empty
 
